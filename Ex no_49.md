@@ -20,8 +20,8 @@ To write a C function to search an element in the doubly linked list.
 /*
 C function to search an element in the doubly linked list.
 
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: THEEBAN S
+RegisterNumber:  212222063015
 */
 
 #include <stdio.h>
