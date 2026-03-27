@@ -17,8 +17,8 @@ To write a C function to traverse the linked list and display it in the followin
 /*
 C function to traverse the linked list and display it in the following format.
 
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: THEEBAN S
+RegisterNumber:  212222063015
 */
 #include <stdio.h>
 #include <stdlib.h>
