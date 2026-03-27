@@ -19,8 +19,8 @@ To write a C function to insert a node in a linked list.
 /*
 C function to insert a node in a linked list.
 
-Developed by:  SARATH KUMAR.K
-RegisterNumber:   212222063014
+Developed by:  THEEBAN S
+RegisterNumber:   212222063015
 */
 #include <stdio.h>
 #include <stdlib.h>
