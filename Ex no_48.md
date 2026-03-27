@@ -20,8 +20,8 @@ To write a C functions to perform all basic operations in Doubly Linked List.
 /*
 C functions to perform all basic operations in Doubly Linked List.
 
-Developed by:  SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by:  THEEBAN S
+RegisterNumber:  212222063015
 */
 #include <stdio.h>
 #include <stdlib.h>
